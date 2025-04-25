@@ -56,7 +56,4 @@ To design and simulate a **Model Traffic Light Circuit** using **two 555 Timer I
 
 This project demonstrates a simple yet effective use of **555 Timer ICs** to build a basic traffic light system. It shows how simple analog components can be combined to mimic real-world digital systems and applications.
 
----
-
-## 📁 Repository Structure
 
