@@ -1,7 +1,7 @@
-# 🚦 Model Traffic Light using 555 Timer IC
+# 🚦 Modern Traffic Light using 555 Timer IC
 
 ## 🧠 Objective
-To design and simulate a **Model Traffic Light Circuit** using **two 555 Timer ICs**, mimicking real-world traffic signal operations with basic electronic components.
+To design and simulate a **Modern Traffic Light Circuit** using **two 555 Timer ICs**, mimicking real-world traffic signal operations with basic electronic components.
 
 ---
 
